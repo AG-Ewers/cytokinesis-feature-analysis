@@ -1,0 +1,33 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CellProfiler output
+*.csv
+*.h5
+*.mat
+*.tiff
+*.tif
+*.png
+*.jpg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Excel backups
+*~$*.xlsx
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
+
+# Environment files
+.env
+.venv/
+venv/

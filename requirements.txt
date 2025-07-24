@@ -1,0 +1,14 @@
+numpy
+scipy
+scikit-learn
+scikit-image
+pandas
+matplotlib
+tifffile==2024.9.20
+jupyterlab
+openpyxl
+tqdm
+seaborn
+ipywidgets 
+opencv-python
+jupyter
