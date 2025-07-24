@@ -44,6 +44,7 @@ Or install manually in a Colab notebook using:
    - Visualize PCA/LDA projections
    - Optionally apply polynomial fitting
 4. Use the CellProfiler pipeline separately to extract features from image data.
+Note: You may need to adjust parameters in the CellProfiler pipeline (CP_featureExtraction.cppipe) for accurate segmentation of bridge-like midbody structures, depending on your imaging conditions (e.g., resolution, intensity, staining).
 
 ## Author
 
