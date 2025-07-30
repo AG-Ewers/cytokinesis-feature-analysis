@@ -13,7 +13,7 @@ CellProfiler-based feature extraction and interactive PCA/LDA software for analy
 
 ## File Structure
 
-- `PCA_Software_v3.ipynb` – Jupyter notebook for PCA and feature analysis
+- `PCA_Software_v4.ipynb` – Jupyter notebook for PCA and feature analysis
 - `CP_featureExtraction.cppipe` – CellProfiler pipeline for feature extraction
 - `Feature_Excel_File.xlsx` – Sample input feature table
 - `requirements.txt` – Python dependencies
@@ -38,7 +38,7 @@ Or install manually in a Colab notebook using:
 ## Usage
 
 1. Place `Feature_Excel_File.xlsx` in the same directory as the notebook (or update the path in code).
-2. Run `PCA_Software_v3.ipynb` in Jupyter or Colab.
+2. Run `PCA_Software_v4.ipynb` in Jupyter or Colab.
 3. Use the GUI to:
    - Select features
    - Visualize PCA/LDA projections
@@ -60,4 +60,4 @@ MIT License
 ## Related Repositories
 
 Part of the broader analysis effort alongside Zack Marin's  
-[expansion-analysis](https://github.com/zacsimile/expansion-analysis) repository.
+[cytokinesis-pseudotime-analysis](https://github.com/zacsimile/cytokinesis-pseudotime-analysis) repository.
